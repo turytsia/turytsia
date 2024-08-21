@@ -15,7 +15,7 @@ All university-related projects are organized under the following naming convent
 university-[subject]-[name]
 ```
 
-`[subject]` - The subject or course related to the project (e.g., izp, ipp, ids, isu, isa, ipk)
+`[subject]` - The subject or course related to the project (e.g., izp, ipp, ids, isu, isa, ipk) <br />
 `[name]` - A brief descriptive name of the project
 
 #### Practice Projects
@@ -26,7 +26,7 @@ Practice projects were developed to improve my skills in specific technologies o
 practice-[technology]-[name]
 ```
 
-`[technology]` - The primary technology or tool used in the project (e.g., angular, java)
+`[technology]` - The primary technology or tool used in the project (e.g., angular, java) <br />
 `[name]` - A brief descriptive name of the project
 
 #### Interview Projects
@@ -36,5 +36,5 @@ Projects completed as part of interview processes are categorized using this con
 practice-[technology]-[name]
 ```
 
-`[company]` - The name of the company for which the project was created
+`[company]` - The name of the company for which the project was created <br />
 `[name]` - A brief descriptive name of the project
