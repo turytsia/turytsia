@@ -33,7 +33,7 @@ practice-[technology]-[name]
 
 Projects completed as part of interview processes are categorized using this convention:
 ```bash
-practice-[technology]-[name]
+interview-[company]-[name]
 ```
 
 `[company]` - The name of the company for which the project was created <br />
